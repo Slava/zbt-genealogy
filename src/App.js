@@ -279,7 +279,7 @@ class App extends Component {
 
   focusNode(node) {
     if (!node) return;
-    this.clearTree(node);
+    this.clearTree(data);
     node.highlighted = true;
     const {drawPosition} = node;
     this.mapRef.current.set(drawPosition.x, drawPosition.y);
@@ -331,7 +331,6 @@ const levels = [
   "Beta Lambda",
   "Beta Mu"
 ];
-const levelIdReversed = levels.map((x, i) => i).reverse();
 
 const levelMap = {};
 levels.forEach((level, i) => levelMap[level] = i);

@@ -79,7 +79,7 @@ export default class SvgMap extends React.Component {
     const scale = this.state.matrix[0];
     const matrix = [1, 0, 0, 1, -x + width/2, -y + height/2];
     this.setState({ matrix }, () => {
-      this.zoom(1.75, () => {
+      this.zoom(scale, () => {
       });
     });
   }
@@ -108,7 +108,7 @@ export default class SvgMap extends React.Component {
         onMouseUp={this.onDragEnd}
         onTouchEnd={this.onDragEnd}
         onWheel={this.onWheel}>
-        <g transform={`matrix(${this.state.matrix.join(' ')})`}>
+          <g transform={`matrix(${this.state.matrix.join(' ')})`}>
         {children}
         </g>
       </svg>

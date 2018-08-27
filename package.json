@@ -2,6 +2,7 @@
   "name": "zbt-gene",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://zbt.mit.edu/gen",
   "dependencies": {
     "@ajainarayanan/react-pan-zoom": "^0.0.1",
     "autobind-decorator": "^2.1.0",
