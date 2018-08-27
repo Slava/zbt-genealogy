@@ -1,0 +1,21 @@
+{
+  "name": "zbt-gene",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ajainarayanan/react-pan-zoom": "^0.0.1",
+    "autobind-decorator": "^2.1.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-autobind": "^1.0.6",
+    "react-autosuggest": "^9.4.0",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
