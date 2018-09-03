@@ -329,7 +329,8 @@ const levels = [
   "Beta Iota",
   "Beta Kappa",
   "Beta Lambda",
-  "Beta Mu"
+  "Beta Mu",
+  "Beta Nu"
 ];
 
 const levelMap = {};

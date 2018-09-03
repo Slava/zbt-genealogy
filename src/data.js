@@ -195,7 +195,13 @@ const zbt = {
                                                                                       "children": [
                                                                                         {
                                                                                           "name": "Jack Liu",
-                                                                                          "children": [],
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "Steven Liu",
+                                                                                              "bio": "Beta Nu",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ],
                                                                                           "bio": "Beta Mu"
                                                                                         }
                                                                                       ],
@@ -291,6 +297,11 @@ const zbt = {
                                                                                               "name": "Ed Fan",
                                                                                               "children": [],
                                                                                               "bio": "Deactivated"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "Prateek Kalakuntla",
+                                                                                              "bio": "Beta Nu",
+                                                                                              "children": []
                                                                                             }
                                                                                           ],
                                                                                           "bio": "Beta Lambda"
@@ -319,7 +330,13 @@ const zbt = {
                                                                                       "children": [
                                                                                         {
                                                                                           "name": "Deep Gupta",
-                                                                                          "children": [],
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "Johnny Bui",
+                                                                                              "bio": "Beta Nu",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ],
                                                                                           "bio": "Beta Mu"
                                                                                         }
                                                                                       ],
@@ -461,7 +478,13 @@ const zbt = {
                                                                                   "children": [
                                                                                     {
                                                                                       "name": "Eshaan Nichani",
-                                                                                      "children": [],
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Liam Conboy",
+                                                                                          "bio": "Beta Nu",
+                                                                                          "children": []
+                                                                                        }
+                                                                                      ],
                                                                                       "bio": "Beta Mu"
                                                                                     }
                                                                                   ],
@@ -795,7 +818,13 @@ const zbt = {
                                                                               "children": [
                                                                                 {
                                                                                   "name": "Allen Lee",
-                                                                                  "children": [],
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "Alex Guo",
+                                                                                      "bio": "Beta Nu",
+                                                                                      "children": []
+                                                                                    }
+                                                                                  ],
                                                                                   "bio": "Beta Mu"
                                                                                 }
                                                                               ],
@@ -860,7 +889,13 @@ const zbt = {
                                                                   "children": [
                                                                     {
                                                                       "name": "Tony Ding",
-                                                                      "children": [],
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Ben Chen",
+                                                                          "bio": "Beta Nu",
+                                                                          "children": []
+                                                                        }
+                                                                      ],
                                                                       "bio": "Beta Mu"
                                                                     }
                                                                   ],
@@ -904,7 +939,13 @@ const zbt = {
                                                                   "children": [
                                                                     {
                                                                       "name": "Tarun Kamath",
-                                                                      "children": [],
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Bill Wu",
+                                                                          "bio": "Beta Nu",
+                                                                          "children": []
+                                                                        }
+                                                                      ],
                                                                       "bio": "Beta Mu"
                                                                     }
                                                                   ],
@@ -924,7 +965,13 @@ const zbt = {
                                                                       "children": [
                                                                         {
                                                                           "name": "Rishi Sundaresan",
-                                                                          "children": [],
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "Nafim Rahman",
+                                                                              "bio": "Beta Nu",
+                                                                              "children": []
+                                                                            }
+                                                                          ],
                                                                           "bio": "Beta Mu"
                                                                         }
                                                                       ],
@@ -1140,7 +1187,13 @@ const zbt = {
                                                                               "children": [
                                                                                 {
                                                                                   "name": "Victor Cheng",
-                                                                                  "children": [],
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "Matthew Feng",
+                                                                                      "bio": "Beta Nu",
+                                                                                      "children": []
+                                                                                    }
+                                                                                  ],
                                                                                   "bio": "Beta Mu"
                                                                                 }
                                                                               ],
@@ -1675,7 +1728,13 @@ const zbt = {
                                                                       "children": [
                                                                         {
                                                                           "name": "Tiancheng Qin",
-                                                                          "children": [],
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "Eric Qian",
+                                                                              "bio": "Beta Nu",
+                                                                              "children": []
+                                                                            }
+                                                                          ],
                                                                           "bio": "Beta Mu"
                                                                         }
                                                                       ],
@@ -1743,7 +1802,13 @@ const zbt = {
                                                                               "children": [
                                                                                 {
                                                                                   "name": "Hans Li",
-                                                                                  "children": [],
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "Eric Jiang",
+                                                                                      "bio": "Beta Nu",
+                                                                                      "children": []
+                                                                                    }
+                                                                                  ],
                                                                                   "bio": "Beta Mu"
                                                                                 }
                                                                               ],
@@ -1993,7 +2058,13 @@ const zbt = {
                                                                               "children": [
                                                                                 {
                                                                                   "name": "Ato Kwapong",
-                                                                                  "children": [],
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "Edmund Williams",
+                                                                                      "bio": "Beta Nu",
+                                                                                      "children": []
+                                                                                    }
+                                                                                  ],
                                                                                   "bio": "Beta Mu"
                                                                                 }
                                                                               ],
